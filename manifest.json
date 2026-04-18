@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "mattstyles",
+  "repo": "grunt-banner",
+  "versions": [
+    {
+      "commit": "fceed8c9860602c8020053e7185cf572efc0fe9f",
+      "parsed_at": "2026-04-18T15:35:31.337764+00:00",
+      "tag": "v0.1.1",
+      "filetree": "filetree/fceed8c9860602c8020053e7185cf572efc0fe9f.nq.gz",
+      "blobs": [
+        "blob/0d4e57507392f69b5309684759c4e18208b700e4.nq.gz",
+        "blob/db9b2816794b4c2401c792c2e3db4a70d7547aec.nq.gz",
+        "blob/6b4c1a9b135644073f3fd34a71452a0b1fe95abc.nq.gz",
+        "blob/b2e215152a6f5111d502090fd616e98fe4c9e55f.nq.gz",
+        "blob/e6a931710036517bbcccb2a8f930bd4f7231369c.nq.gz",
+        "blob/e28e1421cb168d97ca6ce3e7c8b9b214a11accef.nq.gz",
+        "blob/9538fc81864bb8ae91206cc55918f6a294ef70e0.nq.gz",
+        "blob/8eae9a561a0faeb579148a64570032d4047f9f6d.nq.gz",
+        "blob/4070b48204e300685b591f20f06c49f55c34bf0d.nq.gz",
+        "blob/e521435e1f9b64717b9872376961232cf646f844.nq.gz",
+        "blob/a90cbd741f6e6256b1c5b99eca2985534e105d35.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
